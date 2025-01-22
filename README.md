@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi! I'm Evan Hadam 👋
 
-<!--
-**evanhadam/evanhadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A pre-med turned engineer passionate about solving people's problems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on next-gen pathogen prediction maps
+- 🌱 I’m currently learning LLM engineering
+- 👯 I’m looking to collaborate on web dev
+- 🤔 I’m looking for help with data pipelining
+- 💬 Ask me about AI in medicine
+- 📫 How to reach me: hadame.eh@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Ask me about my marathon training! Currently attempting to qualify for the Boston Marathon
