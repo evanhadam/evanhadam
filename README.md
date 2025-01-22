@@ -1,6 +1,6 @@
 ## Hi! I'm Evan Hadam 👋
 
-# A pre-med turned engineer passionate about solving people's problems
+ A pre-med turned engineer passionate about solving people's problems
 
 - 🔭 I’m currently working on **next-gen pathogen prediction maps**
 - 🌱 I’m currently learning **LLM engineering**
