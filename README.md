@@ -1,6 +1,6 @@
-## <p align="center">Hi! I'm Evan Hadam👋</p> 
+# <p align="center">Hi! I'm Evan Hadam👋</p> 
 
-# <p align="center">A pre-med turned engineer passionate about solving people's problems</p> 
+## <p align="center">A pre-med turned engineer passionate about solving people's problems</p> 
 
 - 🔭 I’m currently working on **next-gen pathogen prediction maps**
 - 🌱 I’m currently learning **LLM engineering**
