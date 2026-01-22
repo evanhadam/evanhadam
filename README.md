@@ -10,3 +10,5 @@
 - 📫 How to reach me: **hadame.eh@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Ask me about my marathon training! Currently attempting to qualify for the Boston Marathon**
+
+- Note: All Dream Team Engineering and research projects are in private repositories due to sensitive data use and intellectual property protection.
