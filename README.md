@@ -3,7 +3,7 @@
 ### <p align="center">A pre-med turned engineer passionate about solving people's problems</p> 
 
 - 🔭 I’m currently working on **AI-powered phonetic analysis**
-- 🌱 I’m currently learning **Diffusion modeling for MRIs**
+- 🌱 I’m currently learning **diffusion models**
 - 👯 I’m looking to collaborate on **personal workflow optimizations**
 - 🤔 I’m looking for help with **data pipelining**
 - 💬 Ask me about **AI in medicine**
